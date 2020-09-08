@@ -1,6 +1,8 @@
-Run: 
-./mvnw clean package
-./mvnw spring-boot:run
+How to run it:
+- Download code
+- cd to root folder
+- ./mvnw clean package
+- ./mvnw spring-boot:run
 
 Assumptions:
 - Jobs would not be completely removed from the queue, they were set as "CONCLUDED" instead
